@@ -1,0 +1,17 @@
+# data & outputs
+data/
+outputs/
+*.mp4
+*.avi
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# notebooks
+.ipynb_checkpoints/
+
+# ultralytics runs
+runs/
